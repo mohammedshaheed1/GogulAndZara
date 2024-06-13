@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GogulAndZara/static/css/main.b462f034.css",
+    "main.js": "/GogulAndZara/static/js/main.89a49779.js",
+    "static/media/zara.png": "/GogulAndZara/static/media/zara.6f31a9712033a503377d.png",
+    "static/media/GG.jpeg": "/GogulAndZara/static/media/GG.b8ce2701b6908c551bb8.jpeg",
+    "index.html": "/GogulAndZara/index.html",
+    "main.b462f034.css.map": "/GogulAndZara/static/css/main.b462f034.css.map",
+    "main.89a49779.js.map": "/GogulAndZara/static/js/main.89a49779.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b462f034.css",
+    "static/js/main.89a49779.js"
+  ]
+}
